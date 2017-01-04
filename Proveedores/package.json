@@ -1,0 +1,23 @@
+{
+  "name": "proveedores_banamex",
+  "version": "1.0.0",
+  "description": "Aplicacion para mostrar el listado de proveedores banamex",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.14",
+    "gulp": "^3.9.1",
+    "html-webpack-plugin": "^2.26.0",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2",
+    "webpack-stream": "^3.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erick Quintero",
+  "license": "ISC"
+}
